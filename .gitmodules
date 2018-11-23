@@ -1,0 +1,3 @@
+[submodule "pager"]
+	path = pager
+	url = https://github.com/milanatshopify/pager
